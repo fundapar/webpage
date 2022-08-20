@@ -13,7 +13,7 @@
 		<meta name="twitter:description" content="Cartagena Con Parques">
 		<meta name="twitter:creator" content="@morelosandres">
 		<meta name="twitter:image" content=" <a href='http://fundapar.comli.com/img/logo.png'</a>">
-		<title>:: Fundapar ::</title>
+		<title>:: Fundación Cultural Ambiental y Deportiva Caratgena con Parques - FUNDAPAR ::</title>
 		<link rel="icon" href="/img/Logo.png">
 		<link rel="stylesheet" href="css/page.css">
 		<link rel="stylesheet" href="css/font.css">
